@@ -2,32 +2,28 @@
 layout: home
 
 hero:
-  name: Write Documentation
-  text: Create Leverage
-  image:
-    src: /amore-fati.svg
-    alt: Project logo
-  tagline: Frameworks and structure for creating leverage
+  name: DEVOT
+  text: Small steps, great distances
+  tagline: Taking time to draw connections
   actions:
     - theme: brand
-      text: Get Started
-      link: /value
+      text: Begin
+      link: /devos/001-the-delta-is-the-work
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/chaselikethebank/docs-template/tree/main
+      text: Archive
+      link: /devos/
 
 features:
-  - icon: 🗡️
-    title: Continuity
-    details: Face the same direction <br/> Speak the same language <br/> Exercise the same disciplines <br/> Share the same goals
-  - icon: 🏀
-    title: Single Source of Truth
-    details: All hex codes, approved assets, requirements, user stories... live here
-  - icon: 🌎
-    title: The Map is Not the Territory
-    details: This is not the product <br/> This is not a mental model <br/> This is something in between
-  - icon: 🚀
-    title: Pareto Velocity
-    details: Answering 80% of key questions unlocks momentum <br/> Progress compounds when clarity removes friction
+  - icon: 🎻
+    title: Tune Up
+    details: Instruments drift<br>People drift<br>Return to center
+  - icon: 🥁
+    title: Count in
+    details: Nobody starts together<br>until somebody counts<br> 
+  - icon: 🔁
+    title: Practice
+    details: Not until you get it right<br>Until you can't get it wrong<br>Work or Die
+  - icon: 👂
+    title: Big Ears
+    details: Not just your take<br>The whole band, the whole room<br>Hear everything
 ---
-
