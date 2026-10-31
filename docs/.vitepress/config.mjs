@@ -14,8 +14,8 @@ export default defineConfig({
                 items: [
                     { text: "Archive", link: "/devos/" },
                     { text: "The Delta Is the Work", link: "/devos/001-the-delta-is-the-work" },
-                    { text: "Vision Is a Gift", link: "/devos/002-vision-is-a-gift" },
-                    { text: "Makers Gotta Make", link: "/devos/003-makers-gotta-make" },
+                  //  { text: "Vision Is a Gift", link: "/devos/002-vision-is-a-gift" },
+                  //  { text: "Makers Gotta Make", link: "/devos/003-makers-gotta-make" },
                 ],
             },
         ],

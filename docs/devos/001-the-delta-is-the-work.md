@@ -109,5 +109,4 @@ The work isn't separate from your vision or what's in your hands. The work is wh
 - What gifts and resources are you responsible?
 - How are you going to reconcile the two daily? 
 
-Then let time happen.
 :::
